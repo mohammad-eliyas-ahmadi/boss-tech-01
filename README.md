@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Muhammad Elyas
+## 👋 Hi, I’m Mohammad Eliyas Ahmadi
 
 I’m a Computer Science student and junior Java developer with a strong focus on backend development.  
 I enjoy building structured, scalable applications and understanding how real-world systems actually work.
@@ -17,5 +17,5 @@ I enjoy building structured, scalable applications and understanding how real-wo
 
 ## 📫 How to reach me
 - **Email:** ahmadielyas591@gmail.com  
-- **LinkedIn:** www.linkedin.com/in/muhammad-elyas-ahmadi  
+- **LinkedIn:** www.linkedin.com/in/mohammad-eliyas-ahmadi  
 - **GitHub:** You’re already here 🙂
